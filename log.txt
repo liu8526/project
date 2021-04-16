@@ -1,0 +1,265 @@
+Total Epoch:40 Image_size:(256, 256) Training num:28728  Validation num:3193
+28728 data
+3193 data
+[train] epoch:0 iter:0/449 0.00% lr:0.008000 loss:2.024349 ETA:78.0min
+[train] epoch:0 iter:150/449 33.41% lr:0.007978 loss:0.871014 ETA:5.0min
+[train] epoch:0 iter:300/449 66.82% lr:0.007912 loss:0.809557 ETA:3.0min
+[val] epoch:0 miou:0.0760 val_loss:1.1606 
+[save] Best Model saved at epoch:0 =============================
+acc: 0.7458958779611895 acc_cls: 0.10113427392940902 
+
+iu: [1.37655797e-02 7.46495072e-01 0.00000000e+00 4.19157568e-05
+ 0.00000000e+00 0.00000000e+00 0.00000000e+00 0.00000000e+00
+ 1.95607561e-05 0.00000000e+00] 
+
+mean_iu: 0.07603221284020599 
+fwavacc: 0.5588989953085294
+[train] epoch:1 iter:0/449 0.00% lr:0.007804 loss:0.786062 ETA:29.0min
+[train] epoch:1 iter:150/449 33.41% lr:0.007654 loss:0.782202 ETA:5.0min
+[train] epoch:1 iter:300/449 66.82% lr:0.007464 loss:0.769281 ETA:3.0min
+[val] epoch:1 miou:0.2891 val_loss:nan 
+[save] Best Model saved at epoch:1 =============================
+acc: 0.8204076798627491 acc_cls: 0.39042668858015184 
+
+iu: [0.48338342 0.82553024 0.         0.13566864 0.22926915 0.40529882
+ 0.28789766 0.         0.52410307 0.        ] 
+
+mean_iu: 0.2891151007552292 
+fwavacc: 0.7266641146423045
+[train] epoch:2 iter:0/449 0.00% lr:0.007237 loss:0.780670 ETA:30.0min
+[train] epoch:2 iter:150/449 33.41% lr:0.006973 loss:0.757618 ETA:5.0min
+[train] epoch:2 iter:300/449 66.82% lr:0.006677 loss:0.758907 ETA:3.0min
+[val] epoch:2 miou:0.2923 val_loss:0.7806 
+[save] Best Model saved at epoch:2 =============================
+acc: 0.8489632156998096 acc_cls: 0.40067381720215306 
+
+iu: [0.48591875 0.85869186 0.         0.18670816 0.21535556 0.23749479
+ 0.31480584 0.         0.62424648 0.        ] 
+
+mean_iu: 0.2923221433566937 
+fwavacc: 0.7532887023886294
+[train] epoch:3 iter:0/449 0.00% lr:0.006353 loss:0.754414 ETA:25.0min
+[train] epoch:3 iter:150/449 33.41% lr:0.006002 loss:0.748072 ETA:5.0min
+[train] epoch:3 iter:300/449 66.82% lr:0.005628 loss:0.743813 ETA:3.0min
+[val] epoch:3 miou:0.3450 val_loss:0.7597 
+[save] Best Model saved at epoch:3 =============================
+acc: 0.8545485155133666 acc_cls: 0.4534670713724468 
+
+iu: [0.540621   0.86286558 0.         0.1979722  0.36149001 0.4566367
+ 0.41334522 0.00528773 0.61184405 0.        ] 
+
+mean_iu: 0.34500624767953936 
+fwavacc: 0.7699423940117622
+[train] epoch:4 iter:0/449 0.00% lr:0.005240 loss:0.740861 ETA:27.0min
+[train] epoch:4 iter:150/449 33.41% lr:0.004835 loss:0.743377 ETA:5.0min
+[train] epoch:4 iter:300/449 66.82% lr:0.004421 loss:0.736344 ETA:3.0min
+[val] epoch:4 miou:0.3527 val_loss:0.7488 
+[save] Best Model saved at epoch:4 =============================
+acc: 0.8619837415953845 acc_cls: 0.44076097529740677 
+
+iu: [0.49986341 0.86741285 0.         0.19086142 0.41086248 0.45422652
+ 0.40127812 0.06484146 0.63774102 0.        ] 
+
+mean_iu: 0.3527087272356403 
+fwavacc: 0.7676443130556881
+[train] epoch:5 iter:0/449 0.00% lr:0.004005 loss:0.733922 ETA:28.0min
+[train] epoch:5 iter:150/449 33.41% lr:0.003586 loss:0.734366 ETA:5.0min
+[train] epoch:5 iter:300/449 66.82% lr:0.003173 loss:0.731847 ETA:3.0min
+[val] epoch:5 miou:0.3576 val_loss:0.7452 
+[save] Best Model saved at epoch:5 =============================
+acc: 0.8632482330962629 acc_cls: 0.46548962496442076 
+
+iu: [0.53886134 0.86812831 0.         0.21573426 0.37039198 0.42403196
+ 0.4384605  0.09591445 0.62428056 0.        ] 
+
+mean_iu: 0.3575803363522064 
+fwavacc: 0.7739068816805246
+[train] epoch:6 iter:0/449 0.00% lr:0.002770 loss:0.677373 ETA:27.0min
+[train] epoch:6 iter:150/449 33.41% lr:0.002379 loss:0.729365 ETA:5.0min
+[train] epoch:6 iter:300/449 66.82% lr:0.002006 loss:0.727258 ETA:3.0min
+[val] epoch:6 miou:0.1744 val_loss:0.9514 
+acc: 0.7638176817375778 acc_cls: 0.3045962542418759 
+
+iu: [0.33450956 0.81122493 0.         0.11723582 0.02131399 0.31200279
+ 0.12193338 0.01533365 0.00994751 0.        ] 
+
+mean_iu: 0.17435016258586503 
+fwavacc: 0.6687396112092873
+[train] epoch:7 iter:0/449 0.00% lr:0.001657 loss:0.707383 ETA:23.0min
+[train] epoch:7 iter:150/449 33.41% lr:0.001331 loss:0.724590 ETA:5.0min
+[train] epoch:7 iter:300/449 66.82% lr:0.001035 loss:nan ETA:2.0min
+[val] epoch:7 miou:0.0165 val_loss:nan 
+acc: 0.1652099389549038 acc_cls: 0.1 
+
+iu: [0.16520994 0.         0.         0.         0.         0.
+ 0.         0.         0.         0.        ] 
+
+mean_iu: 0.01652099389549038 
+fwavacc: 0.027294323929483038
+[train] epoch:8 iter:0/449 0.00% lr:0.000773 loss:nan ETA:25.0min
+[train] epoch:8 iter:150/449 33.41% lr:0.000545 loss:nan ETA:4.0min
+[train] epoch:8 iter:300/449 66.82% lr:0.000355 loss:nan ETA:2.0min
+[val] epoch:8 miou:0.0165 val_loss:nan 
+acc: 0.16503062787341205 acc_cls: 0.1 
+
+iu: [0.16503063 0.         0.         0.         0.         0.
+ 0.         0.         0.         0.        ] 
+
+mean_iu: 0.016503062787341205 
+fwavacc: 0.027235108136292607
+[train] epoch:9 iter:0/449 0.00% lr:0.000206 loss:nan ETA:32.0min
+[train] epoch:9 iter:150/449 33.41% lr:0.000097 loss:nan ETA:4.0min
+[train] epoch:9 iter:300/449 66.82% lr:0.000032 loss:nan ETA:2.0min
+[val] epoch:9 miou:0.0165 val_loss:nan 
+acc: 0.16492291315199997 acc_cls: 0.1 
+
+iu: [0.16492291 0.         0.         0.         0.         0.
+ 0.         0.         0.         0.        ] 
+
+mean_iu: 0.016492291315199997 
+fwavacc: 0.027199567282542126
+[train] epoch:10 iter:0/449 0.00% lr:0.008000 loss:nan ETA:30.0min
+[train] epoch:10 iter:150/449 33.41% lr:0.007995 loss:nan ETA:4.0min
+[train] epoch:10 iter:300/449 66.82% lr:0.007978 loss:nan ETA:2.0min
+[val] epoch:10 miou:0.0165 val_loss:nan 
+acc: 0.1647656085608411 acc_cls: 0.1 
+
+iu: [0.16476561 0.         0.         0.         0.         0.
+ 0.         0.         0.         0.        ] 
+
+mean_iu: 0.01647656085608411 
+fwavacc: 0.027147705764424317
+[train] epoch:11 iter:0/449 0.00% lr:0.007951 loss:nan ETA:26.0min
+[train] epoch:11 iter:150/449 33.41% lr:0.007913 loss:nan ETA:4.0min
+[train] epoch:11 iter:300/449 66.82% lr:0.007864 loss:nan ETA:2.0min
+[val] epoch:11 miou:0.0165 val_loss:nan 
+acc: 0.1646317536652443 acc_cls: 0.1 
+
+iu: [0.16463175 0.         0.         0.         0.         0.
+ 0.         0.         0.         0.        ] 
+
+mean_iu: 0.01646317536652443 
+fwavacc: 0.02710361431489368
+[train] epoch:12 iter:0/449 0.00% lr:0.007804 loss:nan ETA:30.0min
+[train] epoch:12 iter:150/449 33.41% lr:0.007734 loss:nan ETA:4.0min
+[train] epoch:12 iter:300/449 66.82% lr:0.007654 loss:nan ETA:2.0min
+[val] epoch:12 miou:0.0164 val_loss:nan 
+acc: 0.16413683462695497 acc_cls: 0.1 
+
+iu: [0.16413683 0.         0.         0.         0.         0.
+ 0.         0.         0.         0.        ] 
+
+mean_iu: 0.0164136834626955 
+fwavacc: 0.026940900481356365
+[train] epoch:13 iter:0/449 0.00% lr:0.007565 loss:nan ETA:30.0min
+[train] epoch:13 iter:150/449 33.41% lr:0.007465 loss:nan ETA:4.0min
+[train] epoch:13 iter:300/449 66.82% lr:0.007355 loss:nan ETA:2.0min
+[val] epoch:13 miou:0.0164 val_loss:nan 
+acc: 0.1641333078539114 acc_cls: 0.1 
+
+iu: [0.16413331 0.         0.         0.         0.         0.
+ 0.         0.         0.         0.        ] 
+
+mean_iu: 0.016413330785391138 
+fwavacc: 0.026939742747066852
+[train] epoch:14 iter:0/449 0.00% lr:0.007237 loss:nan ETA:28.0min
+[train] epoch:14 iter:150/449 33.41% lr:0.007109 loss:nan ETA:4.0min
+[train] epoch:14 iter:300/449 66.82% lr:0.006973 loss:nan ETA:2.0min
+[val] epoch:14 miou:0.0164 val_loss:nan 
+acc: 0.16412081122585048 acc_cls: 0.1 
+
+iu: [0.16412081 0.         0.         0.         0.         0.
+ 0.         0.         0.         0.        ] 
+
+mean_iu: 0.016412081122585048 
+fwavacc: 0.02693564067743125
+[train] epoch:15 iter:0/449 0.00% lr:0.006830 loss:nan ETA:29.0min
+[train] epoch:15 iter:150/449 33.41% lr:0.006678 loss:nan ETA:4.0min
+[train] epoch:15 iter:300/449 66.82% lr:0.006518 loss:nan ETA:2.0min
+[val] epoch:15 miou:0.0165 val_loss:nan 
+acc: 0.16455943092372474 acc_cls: 0.1 
+
+iu: [0.16455943 0.         0.         0.         0.         0.
+ 0.         0.         0.         0.        ] 
+
+mean_iu: 0.016455943092372475 
+fwavacc: 0.027079806305940136
+[train] epoch:16 iter:0/449 0.00% lr:0.006353 loss:nan ETA:29.0min
+[train] epoch:16 iter:150/449 33.41% lr:0.006180 loss:nan ETA:4.0min
+[train] epoch:16 iter:300/449 66.82% lr:0.006002 loss:nan ETA:2.0min
+[val] epoch:16 miou:0.0164 val_loss:nan 
+acc: 0.1644385170869382 acc_cls: 0.1 
+
+iu: [0.16443852 0.         0.         0.         0.         0.
+ 0.         0.         0.         0.        ] 
+
+mean_iu: 0.01644385170869382 
+fwavacc: 0.02704002590175127
+[train] epoch:17 iter:0/449 0.00% lr:0.005819 loss:nan ETA:31.0min
+[train] epoch:17 iter:150/449 33.41% lr:0.005629 loss:nan ETA:4.0min
+[train] epoch:17 iter:300/449 66.82% lr:0.005436 loss:nan ETA:2.0min
+[val] epoch:17 miou:0.0164 val_loss:nan 
+acc: 0.16385487915765443 acc_cls: 0.1 
+
+iu: [0.16385488 0.         0.         0.         0.         0.
+ 0.         0.         0.         0.        ] 
+
+mean_iu: 0.016385487915765443 
+fwavacc: 0.026848421423769534
+[train] epoch:18 iter:0/449 0.00% lr:0.005240 loss:nan ETA:30.0min
+[train] epoch:18 iter:150/449 33.41% lr:0.005039 loss:nan ETA:4.0min
+[train] epoch:18 iter:300/449 66.82% lr:0.004835 loss:nan ETA:2.0min
+[val] epoch:18 miou:0.0165 val_loss:nan 
+acc: 0.16474465341206596 acc_cls: 0.1 
+
+iu: [0.16474465 0.         0.         0.         0.         0.
+ 0.         0.         0.         0.        ] 
+
+mean_iu: 0.016474465341206595 
+fwavacc: 0.027140800827861734
+[train] epoch:19 iter:0/449 0.00% lr:0.004630 loss:nan ETA:38.0min
+[train] epoch:19 iter:150/449 33.41% lr:0.004422 loss:nan ETA:4.0min
+[train] epoch:19 iter:300/449 66.82% lr:0.004213 loss:nan ETA:2.0min
+[val] epoch:19 miou:0.0165 val_loss:nan 
+acc: 0.16454623658717557 acc_cls: 0.1 
+
+iu: [0.16454624 0.         0.         0.         0.         0.
+ 0.         0.         0.         0.        ] 
+
+mean_iu: 0.016454623658717558 
+fwavacc: 0.027075463975002757
+[train] epoch:20 iter:0/449 0.00% lr:0.004005 loss:nan ETA:22.0min
+[train] epoch:20 iter:150/449 33.41% lr:0.003795 loss:nan ETA:4.0min
+[train] epoch:20 iter:300/449 66.82% lr:0.003586 loss:nan ETA:2.0min
+[val] epoch:20 miou:0.0165 val_loss:nan 
+acc: 0.16487092909079676 acc_cls: 0.1 
+
+iu: [0.16487093 0.         0.         0.         0.         0.
+ 0.         0.         0.         0.        ] 
+
+mean_iu: 0.016487092909079674 
+fwavacc: 0.027182423259262532
+[train] epoch:21 iter:0/449 0.00% lr:0.003380 loss:nan ETA:31.0min
+[train] epoch:21 iter:150/449 33.41% lr:0.003174 loss:nan ETA:4.0min
+[train] epoch:21 iter:300/449 66.82% lr:0.002970 loss:nan ETA:2.0min
+[val] epoch:21 miou:0.0164 val_loss:nan 
+acc: 0.16420962091452493 acc_cls: 0.1 
+
+iu: [0.16420962 0.         0.         0.         0.         0.
+ 0.         0.         0.         0.        ] 
+
+mean_iu: 0.016420962091452492 
+fwavacc: 0.026964799600891983
+[train] epoch:22 iter:0/449 0.00% lr:0.002770 loss:nan ETA:36.0min
+[train] epoch:22 iter:150/449 33.41% lr:0.002573 loss:nan ETA:4.0min
+[train] epoch:22 iter:300/449 66.82% lr:0.002379 loss:nan ETA:2.0min
+[val] epoch:22 miou:0.0164 val_loss:nan 
+acc: 0.16406709722990231 acc_cls: 0.1 
+
+iu: [0.1640671 0.        0.        0.        0.        0.        0.
+ 0.        0.        0.       ] 
+
+mean_iu: 0.016406709722990232 
+fwavacc: 0.026918012393446218
+[train] epoch:23 iter:0/449 0.00% lr:0.002191 loss:nan ETA:38.0min
+[train] epoch:23 iter:150/449 33.41% lr:0.002007 loss:nan ETA:4.0min
